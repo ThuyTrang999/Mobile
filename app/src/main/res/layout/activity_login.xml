@@ -45,6 +45,8 @@
         android:background="@drawable/inputs"
         android:drawableStart="@drawable/ic_lock"
         android:drawablePadding="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
         android:hint="Enter Password ..."
         android:inputType="textEmailAddress"
         android:padding="10dp"
